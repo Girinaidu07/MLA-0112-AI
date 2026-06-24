@@ -1,4 +1,4 @@
-student(navya).
+student(Giri).
 student(ravi).
 
 teacher(kiran).
